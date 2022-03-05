@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+#mammoth {
+    font-family: 'Gideon Roman', cursive;
+        display: grid;
+    grid-template-columns: auto;
+       border-radius: 10%;
+    text-align: center;
+
+}
+#wooly {
+    font-family: 'Teko', sans-serif;    
+    font-size: larger;
+    text-align: center;
+    margin-top: 5px;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: auto;
+}
+.sabre {
+   justify-content: center;
+   place-content: center;
+   margin-top: 5px;
+       
+}
+#tiger {
+    display: grid;
+grid-template-columns: auto;
+font-family: 'Akaya Telivigala', cursive;
+text-align: center;
+}
+#play {
+    display: grid;
+    grid-template-rows: auto;
+    border-radius: 2.5%;
+    justify-items: center;}
+
+    .yoshi {
+        justify-items: center;
+    }
+    .kitase {
+        justify-items: center;
+    }
+    #lino {
+        color: blue;
+    }
+    #rhino {
+        color: blue;
+    }
+    #dino {
+        color: blue;
+    }
+    #lion {
+        color:red;
+    }
+    #tsunami {
+        color: white;
+    display: grid;
+    grid-template-rows: 30px 20px;
+    background-color: blueviolet;
+    margin-top: 2.5px;
+    border-radius: 2.5px;
+    justify-items: center;
+    }
+   body {
+background-color: yellow;
+   }
